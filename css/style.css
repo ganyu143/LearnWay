@@ -173,7 +173,7 @@ span.roundplay-bwn {
 /*--header end here--*/
 /*--banner start here--*/
 .banner {
-	background: url(../images/mo.jpg)no-repeat;
+	background: url(../images/Git/git.jpg)no-repeat;
 	min-height: 550px;
 	background-size: cover;
 }
@@ -237,12 +237,12 @@ span.potrul-line {
 	width: 56%;
 	position: absolute;
 	top: 35%;
-	left: 16%;
+	left: 10%;
 }
 .caption h3{
 	color: #FFF;
-	font-weight: 300;
-	font-size: 30px;
+	font-weight: 350;
+	font-size: 35px;
 	line-height: 1.6em;
 }
 span.bg-small {
