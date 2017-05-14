@@ -178,12 +178,12 @@ span.roundplay-bwn {
 	background-size: cover;
 }
 .banner1 {
-	background: url(../images/b3.jpg)no-repeat;
+	background: url(../images/python/3.jpg)no-repeat;
 	min-height: 550px;
 	background-size: cover;
 }
 .banner2 {
-	background: url(../images/b2.jpg)no-repeat;
+	background: url(../images/opencv/1.jpg)no-repeat;
 	min-height: 550px;
 	background-size: cover;
 }
@@ -236,7 +236,7 @@ span.potrul-line {
 .caption{
 	width: 56%;
 	position: absolute;
-	top: 35%;
+	top: 33%;
 	left: 10%;
 }
 .caption h3{
@@ -1315,7 +1315,7 @@ span.port-lady {
 	font-weight: 500;
 	padding: 10px;
 	width: 98.5%;
-	height: 13em;
+	height: 9em;
 	margin: 7px 0px;
 	background: none;
 	resize: none;
